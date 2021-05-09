@@ -1,0 +1,66 @@
+body{
+    margin:0px;
+    
+}
+
+#origami-main{
+    width:1700px;
+    height:890px;
+
+    background-image:url('b.jpg');
+    background-size:cover;
+    margin:0px;
+}
+
+#head{
+   color:rgb(233, 229, 14);
+   font-family: 'Monoton', cursive;
+   font-size:60px;
+   position:absolute;
+   top:200px;
+   margin-left:50px;
+}
+
+#get-started{
+    color:#f30915;
+    font-family: 'Barlo', sans-serif;
+    position:absolute;
+    top:460px;
+    margin-left:80px;
+    font-size:30px;
+    padding:7px;
+    border:3px  #f80303 solid;
+    text-decoration: none;
+}
+
+#get-started2{
+    color:#f50216;
+    font-family: 'Barlo', sans-serif;
+    position:absolute;
+    top:460px;
+    margin-left:255px;
+    font-size:30px;
+    padding:7px;
+    border:3px  #f10404 solid;
+    text-decoration: none;
+}
+
+
+
+
+#origami-2{
+    margin:0px;
+    padding:0px;
+    width:1700px;
+    height:890px;
+    background-color: #FF8DC2;
+
+}
+/* https://htmldog.com/references/html/tags/
+https://htmldog.com/references/css/properties/
+https://www.htmldog.com/guides/css/advanced/ */
+#p1{
+    color:white;
+    padding:20px;
+    font-size:35px;
+}
